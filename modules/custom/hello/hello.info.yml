@@ -1,0 +1,5 @@
+name: Hello
+type: module
+description: Hello GDM
+core: 8.x
+package: Custom
